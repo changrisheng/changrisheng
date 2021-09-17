@@ -2,7 +2,6 @@
 
 - 🔭 在职员工
 - 🌱 PHP，doctor，Go，
-- 🤔 I’m looking for help with ...
 - 💬 未婚~
 - 😄 ...
 
